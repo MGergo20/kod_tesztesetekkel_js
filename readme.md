@@ -29,7 +29,7 @@ A nem betű karaktereket (szám, írásjel, szóköz stb.) figyelmen kívül kel
 ## ✳️ Példák
 
 ```python
->>> egyedi_betuk("Hello, Világ!")
+>>> egyedi_betuk("Helo, Világ!")
 ['e', 'g', 'h', 'i', 'l', 'v', 'á', 'ó']
 
 >>> egyedi_betuk("Python 3.12")
